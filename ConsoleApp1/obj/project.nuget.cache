@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "O2TasyXtr2sVosMJcZlpo0/52kuWhyAnrZmxOdPLLLK+HXHtfJexq41HPOQ4C8vFRArmTBK0ZhQQZXArWrTr4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ArneD\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Webscraper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ArneD\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\ArneD\\.nuget\\packages\\selenium.webdriver\\4.16.2\\selenium.webdriver.4.16.2.nupkg.sha512",
+    "C:\\Users\\ArneD\\.nuget\\packages\\selenium.webdriver.chromedriver\\120.0.6099.7100\\selenium.webdriver.chromedriver.120.0.6099.7100.nupkg.sha512"
+  ],
+  "logs": []
+}
