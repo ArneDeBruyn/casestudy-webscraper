@@ -224,9 +224,13 @@ namespace SeleniumWebscraper {
             // specifies path of csv file
             string path = $"{filePath}\\{fileName}.csv";
             // open a stream writer to write to the CSV file
+
             using (StreamWriter writer = new StreamWriter(path))
             {
-                writer.WriteLine(data);
+                foreach (var line in data)
+                {
+                    writer.WriteLine(string.Join(", ", line.Values));
+                }
             }
         }
 
